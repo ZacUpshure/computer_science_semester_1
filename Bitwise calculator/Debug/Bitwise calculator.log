@@ -1,0 +1,14 @@
+﻿  Bitwise calculator.cpp
+C:\Users\Zac\Desktop\code\c_study_projects\Bitwise calculator\Bitwise calculator.cpp(191,29): warning C4473: "scanf_s": nicht genügend Argumente für Formatzeichenfolge übergeben
+C:\Users\Zac\Desktop\code\c_study_projects\Bitwise calculator\Bitwise calculator.cpp(191,29): message : Platzhalter und deren Parameter erwarten 2 variadic-Argumente, es wurden aber 1 variadic-Argumente bereitgestellt.
+C:\Users\Zac\Desktop\code\c_study_projects\Bitwise calculator\Bitwise calculator.cpp(191,29): message : Das fehlende variadic-Argument "2" ist für die Zeichenfolge "%c" erforderlich.
+C:\Users\Zac\Desktop\code\c_study_projects\Bitwise calculator\Bitwise calculator.cpp(191,29): message : Dieses Argument wird als Puffergröße verwendet.
+C:\Users\Zac\Desktop\code\c_study_projects\Bitwise calculator\Bitwise calculator.cpp(417,17): warning C4473: "scanf_s": nicht genügend Argumente für Formatzeichenfolge übergeben
+C:\Users\Zac\Desktop\code\c_study_projects\Bitwise calculator\Bitwise calculator.cpp(417,17): message : Platzhalter und deren Parameter erwarten 2 variadic-Argumente, es wurden aber 1 variadic-Argumente bereitgestellt.
+C:\Users\Zac\Desktop\code\c_study_projects\Bitwise calculator\Bitwise calculator.cpp(417,17): message : Das fehlende variadic-Argument "2" ist für die Zeichenfolge "%c" erforderlich.
+C:\Users\Zac\Desktop\code\c_study_projects\Bitwise calculator\Bitwise calculator.cpp(417,17): message : Dieses Argument wird als Puffergröße verwendet.
+C:\Users\Zac\Desktop\code\c_study_projects\Bitwise calculator\Bitwise calculator.cpp(454,17): warning C4473: "scanf_s": nicht genügend Argumente für Formatzeichenfolge übergeben
+C:\Users\Zac\Desktop\code\c_study_projects\Bitwise calculator\Bitwise calculator.cpp(454,17): message : Platzhalter und deren Parameter erwarten 2 variadic-Argumente, es wurden aber 1 variadic-Argumente bereitgestellt.
+C:\Users\Zac\Desktop\code\c_study_projects\Bitwise calculator\Bitwise calculator.cpp(454,17): message : Das fehlende variadic-Argument "2" ist für die Zeichenfolge "%c" erforderlich.
+C:\Users\Zac\Desktop\code\c_study_projects\Bitwise calculator\Bitwise calculator.cpp(454,17): message : Dieses Argument wird als Puffergröße verwendet.
+  Bitwise calculator.vcxproj -> C:\Users\Zac\Desktop\code\c_study_projects\Bitwise calculator\Debug\Bitwise calculator.exe

@@ -1,0 +1,5 @@
+﻿  quantityChar.cpp
+  ueb7.cpp
+C:\Users\Zac\Desktop\code\c_study_projects\aufgabe 7\aufgabe7\ueb7.cpp(2,10): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "headerUe7": No such file or directory
+  Code wird generiert...
+C:\Users\Zac\Desktop\code\c_study_projects\aufgabe 7\aufgabe7\quantityChar.cpp(43): error C4716: "quantityChar": Muss einen Wert zurückgeben

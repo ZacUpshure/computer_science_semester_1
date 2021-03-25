@@ -4,7 +4,7 @@
 
 int main()
 {
-	char text1[] = "young niggas cooomin";
+	char text1[] = "This is a text.";
 	char text2[30];
 
 	int i = 0;

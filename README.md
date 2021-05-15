@@ -1,2 +1,2 @@
-# c_college_tasks
+# c_college_tasks - semester_1
 Test
